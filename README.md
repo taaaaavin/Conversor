@@ -20,4 +20,6 @@ Construído usando a <b>Class JOptionPane</b> e seus <b>métodos</b> <code>showM
 ![sair](https://github.com/taaaaavin/Conversor/assets/121905549/14066a08-b5f6-4203-bc98-538cf5ffbb18)
 ![saindo](https://github.com/taaaaavin/Conversor/assets/121905549/5fe7ad43-aadb-4caf-a024-7df8c1e11984)
 
+<hr>
 
+![image](https://github.com/taaaaavin/Conversor/assets/121905549/42bba4b4-4f6a-4a0c-8656-12b5cf255d40)
