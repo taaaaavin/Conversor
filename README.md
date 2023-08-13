@@ -13,7 +13,8 @@ Um Conversor de Moedas com as seguintes operações:
 Construído usando a <b>Class JOptionPane</b> e seus <b>métodos</b> <code>showMessageDialog(), showInputDialog()</code> e <code>showConfirmDialog()</code>;
 
 <h2>Resultado</h2>
-
+<div align="center">
+  
 ![painel](https://github.com/taaaaavin/Conversor/assets/121905549/8ca8038e-631f-4569-895a-58b45ba5d045)
 ![valor](https://github.com/taaaaavin/Conversor/assets/121905549/9cbceab4-531e-4be0-b69a-ee8025bf185b)
 ![resultado](https://github.com/taaaaavin/Conversor/assets/121905549/5f2926fc-1b60-4993-8813-72310d6a7018)
@@ -23,3 +24,4 @@ Construído usando a <b>Class JOptionPane</b> e seus <b>métodos</b> <code>showM
 <hr>
 
 ![image](https://github.com/taaaaavin/Conversor/assets/121905549/42bba4b4-4f6a-4a0c-8656-12b5cf255d40)
+</div>
